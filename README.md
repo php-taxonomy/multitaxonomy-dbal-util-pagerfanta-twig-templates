@@ -1,7 +1,10 @@
 # multitaxonomy-dbal-util-pagerfanta-twig-templates
 Multitaxonomy for DBAL-Util persistence (Twig templates for pagerfanta objects)
 
-These templates are used like a library.
+# TODO: rename to php-taxonomy/multitaxonomy-pagerfanta-twig-templates
+DBAL-util is not used directly in templates!
+
+# These templates are used like a library.
 
 ```php
 $c->loadFromExtension('twig', [
