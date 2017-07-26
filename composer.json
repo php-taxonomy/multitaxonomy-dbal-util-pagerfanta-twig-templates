@@ -1,0 +1,27 @@
+{
+    "name": "php-taxonomy/multitaxonomy-dbal-util-pagerfanta-twig-templates",
+    "description": "Multitaxonomy for DBAL-Util persistence (Twig templates for pagerfanta objects)",
+    "keywords": ["taxonomy", "classification", "category", "tag", "dbal-util", "pagerfanta", "twig"],
+    "homepage": "https://github.com/php-taxonomy/multitaxonomy-dbal-util-pagerfanta-twig-templates",
+    "license": "ISC",
+    "authors": [
+        {"name": "Jean-bernard Addor"},
+        {"name": "Community", "homepage": "https://github.com/php-taxonomy/multitaxonomy-dbal-util-pagerfanta-twig-templates"}
+    ],
+    "require": {
+        "white-october/pagerfanta-bundle": "^1.6",
+        "symfony/twig-bundle": "^2.7 || ^3.0 || ^4.0"
+    },
+    "require-dev": {
+    },
+    "suggest": {
+    },
+    "autoload": {
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        }
+    }
+}
+
