@@ -20,3 +20,9 @@ $c->loadFromExtension('twig', [
   * https://symfony.com/doc/3.3/templating/namespaced_paths.html
 * https://symfony.com/blog/new-in-symfony-3-3-a-simpler-way-to-get-the-project-root-directory
 * http://fabien.potencier.org/symfony4-directory-structure.html
+
+# Check syntax (with symfony ~framework-bundle)
+```sh
+$ bin/console lint:twig vendor/php-taxonomy/multitaxonomy-dbal-util-pagerfanta-twig-templates/
+```
+* https://symfony.com/doc/current/templating/syntax.html
