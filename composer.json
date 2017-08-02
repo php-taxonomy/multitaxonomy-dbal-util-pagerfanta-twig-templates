@@ -1,7 +1,7 @@
 {
     "name": "php-taxonomy/multitaxonomy-dbal-util-pagerfanta-twig-templates",
     "description": "Multitaxonomy for DBAL-Util persistence (Twig templates for pagerfanta objects)",
-    "keywords": ["taxonomy", "classification", "category", "tag", "dbal-util", "pagerfanta", "twig"],
+    "keywords": ["taxonomy", "classification", "category", "tag", "dbal-util", "pagerfanta", "twig", "snowyowl"],
     "homepage": "https://github.com/php-taxonomy/multitaxonomy-dbal-util-pagerfanta-twig-templates",
     "license": "ISC",
     "authors": [
